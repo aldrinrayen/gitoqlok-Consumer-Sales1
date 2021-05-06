@@ -1,0 +1,230 @@
+[
+  {
+    "qInfo": {
+      "qId": "5deea019-0b91-4cb8-a756-68c512bc6212",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "Hazelwood",
+      "description": ""
+    },
+    "creationDate": "2020-12-16T06:53:30.641Z",
+    "selectionFields": "Customer",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Customer",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 44181.51631944445,
+        "qVariableItems": [],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "7c29bfe1-12e9-4ed0-b4a4-db29c419f3cd",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "AK",
+      "description": ""
+    },
+    "creationDate": "2020-12-21T07:14:42.118Z",
+    "sheetId": "df800bc2-2a34-49b3-b9cb-83b5f530436d",
+    "selectionFields": "State",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "State",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 44186.53104166667,
+        "qVariableItems": [],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "ab4b2e97-c136-4961-9df2-abb8f138b778",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "TCL",
+      "description": ""
+    },
+    "creationDate": "2020-12-21T10:26:10.890Z",
+    "selectionFields": "City",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "City",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 44186.66400462963,
+        "qVariableItems": [],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "c0fe7f0d-9523-4428-a1dd-7d9bfa4f0f5b",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "IN",
+      "description": ""
+    },
+    "creationDate": "2020-12-22T13:39:18.386Z",
+    "sheetId": "df800bc2-2a34-49b3-b9cb-83b5f530436d",
+    "selectionFields": "State",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "State",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 44187.79813657407,
+        "qVariableItems": [],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "e7acf9db-0dd6-401a-a971-6ea221fb51a1",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "CA",
+      "description": ""
+    },
+    "creationDate": "2020-12-21T07:15:19.748Z",
+    "sheetId": "df800bc2-2a34-49b3-b9cb-83b5f530436d",
+    "selectionFields": "State",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "State",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 44186.53146990741,
+        "qVariableItems": [],
+        "qPatches": []
+      }
+    }
+  }
+]

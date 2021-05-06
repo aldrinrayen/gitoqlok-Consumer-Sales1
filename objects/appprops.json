@@ -1,0 +1,25 @@
+[
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "e846f499-531c-41d1-ba52-7ace4c920a70",
+        "qType": "appprops"
+      },
+      "qMetaDef": {},
+      "sheetTitleBgColor": {
+        "color": "none",
+        "index": 0
+      },
+      "sheetTitleGradientColor": "",
+      "sheetTitleColor": "",
+      "sheetLogoThumbnail": {
+        "qStaticContentUrlDef": {}
+      },
+      "sheetLogoPosition": "left",
+      "rtl": false,
+      "theme": "Calix-theme",
+      "defaultBookmarkId": null
+    },
+    "qChildren": []
+  }
+]
